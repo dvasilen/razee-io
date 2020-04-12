@@ -1,0 +1,5 @@
+b6b98001cb8e9ee86b4ce0a4342f6bcddd44583a		branch 'lapack/add-dpbcon' of https://github.com/gonum/netlib
+c5a04cffd98a7eb2e328d41321d185529aac1d66		branch 'master' of https://github.com/gonum/netlib
+6ba862f851241ccea6153086a5651e0d46b00418		branch 'mergeblas' of https://github.com/gonum/netlib
+34764579c173dbd00f97b8d933170bb3ae6dd40c		branch 'openblas/check-eb2eddf' of https://github.com/gonum/netlib
+b868cdb2ff1fbc657c30fc7d44a20640f11bedbd		branch 'version/v0.7.0' of https://github.com/gonum/netlib

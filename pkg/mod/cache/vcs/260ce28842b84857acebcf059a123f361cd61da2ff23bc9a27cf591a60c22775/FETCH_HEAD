@@ -1,0 +1,10 @@
+748f1ceb6b1574fbb5a96df9b2a14c4972fa7cfa		branch 'benchmarks' of https://github.com/kubernetes-sigs/structured-merge-diff
+e95fcaac5386a21878a520540d7a6ccac25dd2b9		branch 'master' of https://github.com/kubernetes-sigs/structured-merge-diff
+3d0c538beda9bd9a5136a3c913de4949f640d713		branch 'release-1.0' of https://github.com/kubernetes-sigs/structured-merge-diff
+f4bee7d6459361179bb1d51e740616c90d738bc1		branch 'release-2.0' of https://github.com/kubernetes-sigs/structured-merge-diff
+6149e4549fca4602cb9449007ff8ef61b2feff3b		tag 'v1.0.0' of https://github.com/kubernetes-sigs/structured-merge-diff
+442c558739770972beae46a7f64f19fe34a2c9af		tag 'v1.0.1' of https://github.com/kubernetes-sigs/structured-merge-diff
+3d0c538beda9bd9a5136a3c913de4949f640d713		tag 'v1.0.2' of https://github.com/kubernetes-sigs/structured-merge-diff
+1779409956e10230bfade5076d10b510c9540d53		tag 'v2.0.0' of https://github.com/kubernetes-sigs/structured-merge-diff
+05fad524330e395b45a5598ec3fe8a2cf81aa83e		tag 'v2.0.1' of https://github.com/kubernetes-sigs/structured-merge-diff
+877aee05330847a873a1a8998b40e12a1e0fde25		tag 'v3.0.0' of https://github.com/kubernetes-sigs/structured-merge-diff

@@ -1,0 +1,9 @@
+1213b2815df4f6ff8f9bc7b7a4062469f5fb0cf4		branch 'apelisse-patch-1' of https://github.com/kubernetes/kube-openapi
+f442ecb314a3679150c272e2b9713d8deed5955d		branch 'feature-serverside-apply' of https://github.com/kubernetes/kube-openapi
+e1beb1bd0f35a49ae8fc025a9992f9e240df35c1		branch 'master' of https://github.com/kubernetes/kube-openapi
+39cb288412c48cb533ba4be5d6c28620b9a0c1b4		branch 'release-1.10' of https://github.com/kubernetes/kube-openapi
+594e756bea31230c255b8e9009a5562dfeb32cff		branch 'release-1.16' of https://github.com/kubernetes/kube-openapi
+bcb3869e6f29e211bfc31d13e66e818fdc210305		branch 'release-1.17' of https://github.com/kubernetes/kube-openapi
+61e04a5be9a61e1e2872bfdedde65ce9493bfe50		branch 'release-1.18' of https://github.com/kubernetes/kube-openapi
+0c329704159e3b051aafac400b15baacf2a94a04		branch 'release-1.8' of https://github.com/kubernetes/kube-openapi
+7ee50c0aa8059d610950c952a9ed7a5e33ab336a		branch 'release-1.9' of https://github.com/kubernetes/kube-openapi
